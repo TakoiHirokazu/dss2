@@ -12,7 +12,11 @@ fe/
 *.feather
 *.pyc
 *.pth
-
+*.npy
+*.txt
+*.tsv
+*.tfevents
+*.log
 
 #jupyter notebook
 .ipynb_checkpoints
